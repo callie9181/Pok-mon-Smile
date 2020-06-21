@@ -1,0 +1,10 @@
+id,language,terms1,terms2,terms3,terms4,privacy1,privacy2,privacy3,privacy4,support1,support2,support3,support4,regionId,fontName
+1,English,ja,ko,en,en,ja,ko,asia_en,en,"[1, 8]","[1, 9]","[2, 1]","[1, 1]",4,A-OTF-UDShinGoNTPro-Regular
+2,French,ja,ko,fr,fr,ja,ko,fr,fr,"[1, 8]","[1, 9]","[2, 1]","[1, 2]",4,A-OTF-UDShinGoNTPro-Regular
+3,Italian,ja,ko,it,it,ja,ko,it,it,"[1, 8]","[1, 9]","[2, 1]","[1, 3]",4,A-OTF-UDShinGoNTPro-Regular
+4,German,ja,ko,de,de,ja,ko,de,de,"[1, 8]","[1, 9]","[2, 1]","[1, 4]",4,A-OTF-UDShinGoNTPro-Regular
+5,Spanish,ja,ko,es,es,ja,ko,es,es,"[1, 8]","[1, 9]","[2, 1]","[1, 5]",4,A-OTF-UDShinGoNTPro-Regular
+6,ChineseSimplified,ja,ko,zh_cn,zh_cn,ja,ko,asia_zh_cn,zh_cn,"[1, 8]","[1, 9]","[1, 6]","[1, 1]",3,MO-UDShinGoSCGb4-Reg
+7,ChineseTraditional,ja,ko,zh_tw,zh_tw,ja,ko,asia_zh_tw,zh_tw,"[1, 8]","[1, 9]","[1, 7]","[1, 1]",3,UDShinGoStdTC-Reg
+8,Japanese,ja,ko,en,en,ja,ko,en,en,"[1, 8]","[1, 9]","[2, 1]","[1, 1]",1,A-OTF-UDShinGoNTPro-Regular
+9,Korean,ja,ko,en,en,ja,ko,en,en,"[1, 8]","[1, 9]","[2, 1]","[1, 1]",2,MO-UDShinGoHangKo2-Reg
